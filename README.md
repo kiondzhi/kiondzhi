@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div background-color="white" align="center">I'm Oleg, a junior frontend developer 👨‍💻 </div>  
+### <div align="center">I'm Oleg, a junior frontend developer 👨‍💻 </div>  
   
 
 - 💻 I’m currently learning Next.js  
