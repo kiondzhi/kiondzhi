@@ -44,4 +44,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
