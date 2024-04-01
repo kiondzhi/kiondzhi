@@ -54,6 +54,9 @@
 <a href="https://github.com/kiondzhi" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<a href="https://github.com/kiondzhi](https://t.me/kiondzhi" target="_blank">
+<img src=https://static-00.iconduck.com/assets.00/telegram-icon-512x512-z8lb0qsx.png alt=github style="margin-bottom: 5px;" />
+</a>  
 </div>  
   
 
